@@ -1,6 +1,6 @@
-Per il gioco è necessario stampare almeno 66 case e 22 alberghi.
+Per il gioco è necessario stampare almeno 66 case e 22 hotel.
 
-Si consiglia di stampare le case di un colore e gli alberghi di un altro ancora.
+Si consiglia di stampare le case di un colore e gli hotel di un altro ancora.
 
 I file contrassegnati da "_SLA" sono pensati esclusivamente per una stampante SLA, pertanto sono sconsigliati per una stampante FDM.
 
