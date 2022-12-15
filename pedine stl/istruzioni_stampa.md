@@ -1,4 +1,4 @@
-Per il gioco è necessario stampare almeno 32 case e 16 alberghi.
+Per il gioco è necessario stampare almeno 66 case e 22 alberghi.
 
 Si consiglia di stampare le case di un colore e gli alberghi di un altro ancora.
 
