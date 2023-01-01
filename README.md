@@ -12,3 +12,9 @@ Se hai suggerimenti per migliorarlo puoi effettuare una PR o contattarmi su [TWI
 * tenere tutte le cifre così come sono ma togliere uno zero (si passa da max 50k a 5k)
 * ridurre tutti gli importi del 50% (si passa da max 50k a 25k)
 in questo modo non sarà necessario creare altre varianti per questioni economiche di gioco, il tabellone e le tessere possono essere adattate a nuovi stili di gioco.
+
+## LICENSE 
+[![License](https://github.com/Cmod777/MONOPOLY-BITCOIN-EDITION/blob/main/LICENSE/by-nc-sa.png)](https://github.com/Cmod777/MONOPOLY-BITCOIN-EDITION/blob/main/LICENSE/License)  
+
+## SUPPORT
+[![Donate Bitcoin LN](https://img.shields.io/badge/donate_BITCOIN_LN-SAT-orange.svg)](https://legend.lnbits.com/lnurlp/61266)
